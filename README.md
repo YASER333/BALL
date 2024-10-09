@@ -19,3 +19,11 @@ This project showcases a simple animation of multiple colored balls that randoml
 1. Clone this repository to your local machine using:
    ```bash
    git clone https://github.com/your-username/multi-ball-animation.git
+
+   
+##  MIT License
+
+### Instructions for Use:
+- Replace `your-username` in the installation section with your actual GitHub username.
+- If you have a demo image, replace `path-to-your-demo-image.png` with the actual path or URL.
+- Feel free to modify any sections to better fit your project's needs or add additional information!
